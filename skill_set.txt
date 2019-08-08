@@ -1,0 +1,73 @@
+Form: https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion-india
+
+
+
+SKILL_NAME = "Inspire Me"
+
+GET_FACT_MESSAGE = "Here comes your inspiration : "
+
+HELP_MESSAGE = "You can say tell me an inspirational quote, or, you can say exit... What can I help you with?"
+HELP_REPROMPT = "What can I help you with?"
+
+STOP_MESSAGE = "Goodbye!"
+
+FALLBACK_MESSAGE = "The Inspire Me skill can't help you with that.  It can help you to inspire if you say tell me an inspirational quote. What can I help you with?"
+
+FALLBACK_REPROMPT = 'What can I help you with?'
+
+EXCEPTION_MESSAGE = "Sorry. I cannot help you with that."
+
+
+data = [
+  'Don’t ever let somebody tell you, you can’t do something, not even me.You dream, you gotta protect it. People can’t do something themselves, they wanna tell you, you can’t do it. If you want something, go get it.',
+  'All we have to decide is what to do with the time that is given to us.',
+  'Great men are not born great, they grow great.',
+  'Some people can’t believe in themselves until someone else believes in them first.',
+  'Life moves pretty fast. If you don’t stop and look around once in a while, you could miss it.',
+  'What we do in life echoes in eternity.',
+  'Every man dies, but not every man really lives.',
+  'I know what I have to do now. I’ve got to keep breathing because tomorrow the sun will rise. Who knows what the tide could bring?',
+  'Nobody is gonna hit as hard as life, but it ain’t how hard you can hit. It’s how hard you can get hit and keep moving forward. It’s how much you can take, and keep moving forward. That’s how winning is done.',
+  'Get busy livin’, or get busy dyin’.',
+  'Calling someone fat doesn’t make you any skinnier. Calling someone stupid doesnt make you any smarter. All you can do in life is try and solve the problem in front of you.',
+  'There are heroes and there are legends. Heroes get remembered, but legends never die. Follow your heart, and you’ll never go wrong.',
+  'It is not our abilities that show what we truly are. It is our choices.',
+  'The flower that blooms in adversity is the most rare and beautiful of all.',
+  'The accident is your training. Life is a choice. You can choose to be a victim or anything else you’d like to be.',
+  'Strange, isn’t it? Each man’s life touches so many other lives. When he isn’t around he leaves an awful hole, doesn’t he?',
+  'In this life time, you don’t have to prove nothing to nobody, except yourself. And after what you’ve gone through,if you haven’t done that by now, it ain’t gonna never happen.',
+  'Oh yes, the past can hurt. But you can either run from it, or learn from it.',
+  'Do, or do not. There is no try.',
+  'You have to get lost before you find yourself',
+  'No matter what anybody tells you, words and ideas can change the world.',
+  'You mustn’t be afraid to dream a little bigger, darling.',
+  'Why do we fall sir? So that we can learn to pick ourselves up.',
+  'Sometimes it is the people who no one imagines anything of who do the things that no one can imagine.',
+  'There should be no boundaries to human endeavor. We are all different. However bad life may seem, there is always something you can do, and succeed at. While there’s life, there is hope.',
+  'Two little mice fell in a bucket of cream. The first mouse quickly gave up and drowned. The second mouse, wouldn’t quit. He struggled so hard that eventually he churned that cream into butter and crawled out.',
+  'We buy things we don’t need, to impress people we don’t like.',
+  'Ernest Hemingway once wrote, ‘The world is a fine place and worth fighting for.’ I agree with the second part.',
+  'To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.',
+  'We all end up dead, it’s just a question of how and why.',
+  'The closer you are to death, the more alive you feel. It’s a wonderful way to live. It’s the only way to drive.',
+  'You can do anything. You can go anywhere. Money, power is an illusion. It’s up here. You can be here. Me and you.',
+  'You cannot live your life to please others. The choice must be yours.',
+  'Going in one more round when you don’t think you can – that’s what makes all the difference in your life.',
+  'It’s supposed to be hard. If it wasn’t hard, everyone would do it. The hard is what makes it great. ',
+  'Sometimes the right path is not the easiest one.',
+  'Don’t tell me I can’t do it; don’t tell me it can’t be done!',
+  'After a while, you learn to ignore the names people call you and just trust who you are.',
+  'All that is gold does not glitter. Not all those who wander are lost.',
+  'Our lives are defined by opportunities, even the ones we miss.',
+  'Life is not the amount of breaths you take, it’s the moments that take your breath away.',
+  'The night is darkest just before the dawn. And I promise you, the dawn is coming.',
+  'Some birds are not meant to be caged. Their feathers are just too bright.',
+  'Happiness can be found even in the darkest of times. If one only remembers to turn on the light.',
+  'You do not know about real loss, because that only occurs when you love something more than you love yourself.',
+  'A laugh can be a very powerful thing. Why, sometimes in life, it is the only weapon we have.',
+  'It is only a passing thing, this shadow. Even darkness must pass. A new day will come. And when the sun shines it will shine out the clearer.',
+  'The past is just a story we tell ourselves.',
+  'You are what you love, not what loves you.',
+  'Some infinities are simply bigger than other infinities.',
+  'I know, it is almost impossible to succeed, but who cares, really? The answer must be in the attempt.'
+]
